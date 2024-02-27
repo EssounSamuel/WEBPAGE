@@ -1,0 +1,38 @@
+h1{
+    color: red;
+    background-color: blue;
+    text-align: center;
+    text-decoration: underline;
+}
+body{
+    background-color:yellow;
+}
+td, th{
+    border: 15px solid;
+
+}
+table{
+    border-collapse: collapse;
+}
+.a{
+    text-align: end;
+    color: black;
+    background-color: pink;
+}
+img{
+    border-radius: 50%;
+    border: 5px solid #f455;
+    background-color: black;
+    align-items: center;
+}
+h2{
+    color: black;
+}
+div{
+    text-align: left;
+    color:black;
+}
+.r{
+    background-color:red;
+    word-spacing: 50px;
+}
